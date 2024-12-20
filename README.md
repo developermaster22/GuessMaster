@@ -53,8 +53,7 @@ El proyecto tiene la siguiente estructura:
 
 . ├── index.html # El archivo principal de la aplicación ├── style.css # Estilos para la página y el lienzo ├── script.js # Lógica del juego └── sonidos/ ├── derrota.mp3 # Sonido cuando el jugador pierde └── victoria.mp3 # Sonido cuando el jugador gana
 
-markdown
-Copiar código
+
 
 ## Contribuir
 
